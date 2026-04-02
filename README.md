@@ -8,8 +8,6 @@ Five different parallelisation strategies are implemented and compared.
 - `fractal.cpp` - Main source file containing all implementations
 - `Makefile` - Build file
 - `run.sh` - Script to run the program
-- `output/` - Generated fractal images (PPM format)
-- `report.pdf` - Assignment report
 
 ## Implementations
 1. **1D Rowwise** - Cyclic row distribution across threads
