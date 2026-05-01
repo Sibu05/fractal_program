@@ -1,4 +1,4 @@
-# PC_Assignment-Fractals - Julia Set Fractal Parallelisation
+# Fractals - Julia Set Fractal Parallelisation
 
 ## Overview
 This project parallelises the generation of Julia Set fractals using OpenMP.
